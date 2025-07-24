@@ -1,8 +1,8 @@
 
-import All from './all.png';
-import Finance from './finance.png';
-import Sports from './sports.png';
-import Tech from './tech.png';
+import All from './All.png';
+import Finance from './Finance.png';
+import Sports from './Sports.png';
+import Tech from './Tech.png';
 
 
 
